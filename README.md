@@ -1,2 +1,2 @@
 # DUQFL
-This is official implementation for the paper submitted to ICML 2025 "New Insights on Unfolding and Fine-tuning Quantum Federated Learning".
+This is the official implementation for the paper submitted to the IEEE Transactions on Networking 2025, "New Insights on Unfolding and Fine-tuning Quantum Federated Learning".
